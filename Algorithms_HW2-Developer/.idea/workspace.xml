@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca3b44ab-fc17-4b54-b18f-67013c8d8d8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms_HW2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms_HW2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o8X6l5bFQc2BUm1I2EJapsLN9E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithms_HW2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3b44ab-fc17-4b54-b18f-67013c8d8d8f" name="Default Changelist" comment="" />
+      <created>1612669019880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612669019880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1612673923364">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="525" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612673923364" />
+    <state width="1396" height="221" key="GridCell.Tab.0.bottom" timestamp="1612682695295">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="221" key="GridCell.Tab.0.bottom/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682695295" />
+    <state width="1396" height="221" key="GridCell.Tab.0.center" timestamp="1612682695295">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="221" key="GridCell.Tab.0.center/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682695295" />
+    <state width="1396" height="221" key="GridCell.Tab.0.left" timestamp="1612682695294">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="221" key="GridCell.Tab.0.left/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682695294" />
+    <state width="1396" height="221" key="GridCell.Tab.0.right" timestamp="1612682695295">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="221" key="GridCell.Tab.0.right/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682695295" />
+    <state width="1396" height="274" key="GridCell.Tab.1.bottom" timestamp="1612682317816">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="274" key="GridCell.Tab.1.bottom/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682317816" />
+    <state width="1396" height="274" key="GridCell.Tab.1.center" timestamp="1612682317816">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="274" key="GridCell.Tab.1.center/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682317816" />
+    <state width="1396" height="274" key="GridCell.Tab.1.left" timestamp="1612682317816">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="274" key="GridCell.Tab.1.left/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682317816" />
+    <state width="1396" height="274" key="GridCell.Tab.1.right" timestamp="1612682317816">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1396" height="274" key="GridCell.Tab.1.right/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612682317816" />
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1612678218624">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870/1440.0.1366.768@0.0.1440.870" timestamp="1612678218624" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayBuilder.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
